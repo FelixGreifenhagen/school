@@ -10,6 +10,8 @@ Bei diesen waren viele interessante dabei wie beispielsweise ein Jump-Game oder 
 
 ## Mittwoch, der 14.08.2019
 
+Am Mittwoch habe ich dass Arbeitsprotokol angelegt und begonnen mit Github zu üben.
+
 
 ## Donnerstag, der 15.08.2019
 
