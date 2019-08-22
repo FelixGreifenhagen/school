@@ -19,6 +19,7 @@ eingearbeitet. Zum Beispiel die Verbindung von Programm und Website und einen Ed
 
 ## Dienstag, der 20.08.2019
 
+
 ## Mittwoch, der 21.08.2019
 
 ## Donnerstag, der 22.08.2019
