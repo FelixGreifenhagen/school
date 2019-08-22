@@ -15,7 +15,7 @@ mit dem Rechner hatte hat dies leider die ganze Stunde gedauert.
 ## Donnerstag, der 15.08.2019
 
 Am Donnerstag habe ich mir ein Tutorial fürs erstellen eines Projektes im Programm mit Git Bash angeschaut und dementsprechend
-eingearbeitet. Zum Beispiel
+eingearbeitet. Zum Beispiel die Verbindung von Programm und Website und einen Editer namens Vim.
 
 ## Dienstag, der 20.08.2019
 
