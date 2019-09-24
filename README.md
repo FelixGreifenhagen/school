@@ -37,3 +37,5 @@ bauen wollte bot sich dieses Programm auch an.
 ## Mittwoch, der 11.09.2019
 
 ## Donnerstag, der 12.09.2019
+
+## Dienstag, der 24.09.2019
