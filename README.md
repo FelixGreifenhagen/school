@@ -34,6 +34,8 @@ mit dem Rechner hatte hat dies leider die ganze Stunde gedauert.
 Am Donnerstag habe ich mir ein Tutorial fürs erstellen eines Projektes im Programm mit Git Bash angeschaut und dementsprechend
 eingearbeitet. Zum Beispiel die Verbindung von Programm und Website und einen Editer namens Vim.
 
+## Woche 2(19.08-25.08.2019)
+
 ## Dienstag, der 20.08.2019
 An diesem Tag habe ich mein coding Progamm Sublime Text mit Git Hub verbunden. Dazu habe ich mir zuerst ein Youtube Video angeschaut.
 Daraufhin hatte ich aber Probleme mit dem Abspeichern der Datei, doch nach einiger Zeit habe ich die Datei auf einem anderen Editor 
@@ -45,16 +47,40 @@ bauen wollte bot sich dieses Programm auch an.
 
 ## Donnerstag, der 22.08.2019
 
+## Woche 3(26.08-01.09.2019)
+
 ## Dienstag, der 27.08.2019
 
 ## Mittwoch, der 28.08.2019
 
 ## Donnerstag, der 29.08.2019
 
+## Woche 4(02.09-08.09.2019)
+
+## Woche 5(09.09-15.09.2019)
+
 ## Mittwoch, der 11.09.2019
 
-## Donnerstag, der 12.09.2019
+## Donnerstag, der 12.09.2019 
+
+## Woche 6(16.09-22.09.2019)!!!
+
+## Woche 7(23.09-29.09.2019)
 
 ## Dienstag, der 24.09.2019
 
-## Mittwoch, der 25.09
+## Mittwoch, der 25.09.2019
+
+## Donnerstag, der 26.09.2019
+
+## Woche 8(30.09-06.10.2019)
+
+## Dienstag, der 01.10.2019
+
+## Mittwoch, der 02.10.2019
+
+## Donnerstag, der 03.10.2019
+
+## Woche 9(07.10-13.10.2019)
+
+## Dienstag, der 
