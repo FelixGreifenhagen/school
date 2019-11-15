@@ -101,41 +101,61 @@ Am Donnerstag habe ich die Auswahl des Herkunftslandes und des Problembereiches 
 ## Woche 8(30.09-06.10.2019)
 
 ## Dienstag, der 01.10.2019
+
 Heute hat mich Herr Buhl wegen meines Projektes angesprochen und mit mir eine allg. Unterredung geführt. Dabei heraus, das unser Projekt interaktiv sein sollte. Deswegen sollte ich mir über mein Projekt noch Mal Gedanken machen.
 
 ## Mittwoch, der 02.10.2019
+
 Am Mittwoch habe ich mich dann endgültig dazu entschieden, die Website zu machen auch auf das Risiko hin, das es nicht interaktiv genug ist.
 
 ## Woche 9(07.10-13.10.2019)
+
 Ferien
+
 ## Woche 10(14.10-20.10.2019)
+
 Ferien
+
 ## Woche 11(21.10-27.10.2019)
 
 ## Dienstag, der 22.10.2019
 
+Heute habe ich den CSS Code für das Kontaktformular gemacht width, Border und co. Ab jetzt will ich noch ein Registrierungsfomular programmieren sowie ein eine Log in Form.
+
 ## Mittwoch, der 23.10.2019
 
+
+
 ## Donnerstag, der 24.10.2019
+
+
 
 ## Woche 12(28.10-03.11.2019)
 
 ## Dienstag, der 29.10.2019
+
 Am heutigen Tage habe ich das Registrierungsfomular fertig gestellt, indem ich den CSS Code beendet habe, mit dem cancel Button und co.
+
 ## Woche 13(04.11-10.11.2019)
 
 ## Dienstag, der 05.11.2019
+
 Heute habe ich mit dem Login Formular angefangen dazu benutze ich immer noch W3. Ich habe kleine Teile programmiert wie den Avatar Bereich bei dem ich mich entschied ihn nicht mit rein zu nehmen. Mein Ziel ist es diese Woche die Log In Form zu beenden, um im Zeitplan zu bleiben.
 
 ## Mittwoch, der 06.11.2019
+
 Am Mittwoch habe ich den HTML Code des Log in Formulars mit den Label Elementen und Input Elementen erledigt. Jetzt muss ich morgen nur noch den CSS Code programmieren und bin dann damit fertig.
 
 ## Donnerstag, der 07.11.2019
+
 An dem Tag habe ich den CSS Code des Log in Formulars komplett programmiert, sodass einwandtfrei funktionierte.
 
 ## Woche 14(11.11-15.11.2019)
 
 ## Dienstag, der 12.11.2019
+
 Heute habe ich mein Arbeitsprotokoll zuende geschrieben da ich immer Mal ein paar Tage ausgeladen hatte. Jetzt muss ich nur noch die Projektseite machen und dann bin ich fertig.
+
 ## Donnerstag, der 14.11.2019
+
 Am Donnerstag habe ich mit der Projektseite angefangen, dass ist ganz schön schwer zu formulieren. Ich mache diese am Freitag noch zu Ende. 
