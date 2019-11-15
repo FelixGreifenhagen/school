@@ -103,7 +103,7 @@ Ferien
 ## Woche 12(28.10-03.11.2019)
 
 ## Dienstag, der 29.10.2019
-
+Am heutigen Tage habe ich das Registrierungsfomular fertig gestellt, indem ich den CSS Code beendet habe, mit dem cancel Button und co.
 ## Woche 13(04.11-10.11.2019)
 
 ## Dienstag, der 05.11.2019
