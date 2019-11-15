@@ -107,7 +107,7 @@ Ferien
 ## Woche 13(04.11-10.11.2019)
 
 ## Dienstag, der 05.11.2019
-
+Heute habe ich mit dem Login Formular angefangen dazu benutze ich immer noch W3. Ich habe kleine Teile programmiert wie der Avatar Bereich bei dem ich mich entschied ihn nicht mit rein zu nehmen. Mein Ziel ist es diese Woche die Log In Form zu beenden, um im Zeitplan zu bleiben.
 ## Mittwoch, der 06.11.2019
 
 ## Donnerstag, der 07.11.2019
