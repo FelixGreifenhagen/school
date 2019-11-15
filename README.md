@@ -67,7 +67,7 @@ ein Grund Html Code für alle Seiten erstellen sowie das main Stylesheet.
 ## Woche 5(09.09-15.09.2019)
 
 ## Mittwoch, der 11.09.2019
-
+Am Mittwoch habe ich den Grund HTML Code programmiert mit dem Logo, der Navigation sowie Copyright. Morgen füge ich dann noch das Main CSS Stylesheet hinzu und habe dann eine gute Grundlage.
 
 ## Donnerstag, der 12.09.2019 
 
