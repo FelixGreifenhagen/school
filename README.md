@@ -85,7 +85,7 @@ Wie schon gestern erwähnt, habe ich heute das Main CSS gebaut mit selectors und
 ## Woche 8(30.09-06.10.2019)
 
 ## Dienstag, der 01.10.2019
-
+Heute hat mich Herr Buhl wegen meines Projektes angesprochen und mit mir eine allg. Unterredung geführt. Dabei heraus, das unser Projekt interaktiv sein sollte. Deswegen sollte ich mir über mein Projekt noch Mal Gedanken machen.
 ## Mittwoch, der 02.10.2019
 
 ## Woche 9(07.10-13.10.2019)
