@@ -115,5 +115,5 @@ Ferien
 ## Woche 14(11.11-15.11.2019)
 
 ## Dienstag, der 12.11.2019
-
+Heute habe ich mein Arbeitsprotokoll zuende geschrieben da ich immer Mal ein paar Tage ausgeladen hatte. Jetzt muss ich nur noch die Projektseite machen und dann bin ich fertig.ii
 ## Donnerstag, der 14.11.2019
