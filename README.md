@@ -92,7 +92,11 @@ Heute habe ich mir ein paar Videos auf YouTube angeschaut und im Internet recher
 
 ## Mittwoch, der 25.09.2019
 
+An diesem Tag habe ich mit dem Kontakt Formular angefangen, mich habe die neuen Elemente wie Label und Input fasziniert, weil sie so hilfreich sind. Morgen will ich die select Elemente sowie den restlichen HTML Code zuende bringen.
+
 ## Donnerstag, der 26.09.2019
+
+Am Donnerstag habe ich die Auswahl des Herkunftslandes und des Problembereiches programmiert und zwar mit select und Option. Als nächstes kommt noch CSS Code dann bin auch damit fertig.
 
 ## Woche 8(30.09-06.10.2019)
 
