@@ -124,11 +124,11 @@ Heute habe ich den CSS Code für das Kontaktformular gemacht width, Border und c
 
 ## Mittwoch, der 23.10.2019
 
-
+Am Mittwoch habe ich mit dem gestern erwähnten Registrierungsfomular angefangen, habe auch ein bisschen rum experimentiert. Morgen will ich den HTML Code fertig stellen.
 
 ## Donnerstag, der 24.10.2019
 
-
+An diesem Tag habe ich den HTML Code fertig bekommen.
 
 ## Woche 12(28.10-03.11.2019)
 
