@@ -44,9 +44,10 @@ Für Sublime Text habe ich mich entschieden, weil ich in meinem Betriebspraktiku
 bauen wollte bot sich dieses Programm auch an.
 
 ## Mittwoch, der 21.08.2019
-josh.buhl@isurfstormarn.de
+Heute habe ich angefangen mich in Html und Css wieder hinein zu finden. Dafür benutze ich Codecademy, das ist eine Website mit der man interaktiv lernen kann un zwar in Form von Kursen. Die Basics habe ich heute schon gelernt mit ein paar Kursen. Mein Ziel für die nächste Stunde ist es mit Codecademy soweit  zu kommen, dass ich das Gerüst meiner eigenen Website bauen kann.
 
 ## Donnerstag, der 22.08.2019
+An diesem Tag habe ich weitere Kurse abgeschlossen. Bin auf Codecademy mit Html fertig geworden und es fehlt nur noch Css. Deswegen werde ich mir bald überlegen müssen was meine Website können soll. Nächste Stunde will ich das Grundgerüst meiner Websit bauen. Habe schon ein design im Kopf mit grün und weiß.
 
 ## Woche 3(26.08-01.09.2019)
 
@@ -66,7 +67,7 @@ josh.buhl@isurfstormarn.de
 ## Donnerstag, der 12.09.2019 
 
 ## Woche 6(16.09-22.09.2019)
-   Genf
+   In dieser Woche waren wir in Genf, von daher gab es keinen Fortschritt
    
 ## Woche 7(23.09-29.09.2019)
 
