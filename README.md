@@ -70,7 +70,7 @@ ein Grund Html Code für alle Seiten erstellen sowie das main Stylesheet.
 Am Mittwoch habe ich den Grund HTML Code programmiert mit dem Logo, der Navigation sowie Copyright. Morgen füge ich dann noch das Main CSS Stylesheet hinzu und habe dann eine gute Grundlage.
 
 ## Donnerstag, der 12.09.2019 
-
+Wie schon gestern erwähnt, habe ich heute das Main CSS gebaut mit selectors und classes. Damit habe ich die Farben von Text und Hintergrund bestimmt, sowie die Grundstruktur festgelegt. Als nächstes will ich mir noch ein paar Videos zu Projekt Möglichkeiten anschauen und mein Projekt wählen.
 ## Woche 6(16.09-22.09.2019)
    In dieser Woche waren wir in Genf, von daher gab es keinen Fortschritt
    
