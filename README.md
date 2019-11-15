@@ -108,9 +108,12 @@ Ferien
 
 ## Dienstag, der 05.11.2019
 Heute habe ich mit dem Login Formular angefangen dazu benutze ich immer noch W3. Ich habe kleine Teile programmiert wie den Avatar Bereich bei dem ich mich entschied ihn nicht mit rein zu nehmen. Mein Ziel ist es diese Woche die Log In Form zu beenden, um im Zeitplan zu bleiben.
+
 ## Mittwoch, der 06.11.2019
 Am Mittwoch habe ich den HTML Code des Log in Formulars mit den Label Elementen und Input Elementen erledigt. Jetzt muss ich morgen nur noch den CSS Code programmieren und bin dann damit fertig.
+
 ## Donnerstag, der 07.11.2019
+An dem Tag habe ich den CSS Code des Log in Formulars komplett programmiert, sodass einwandtfrei funktionierte.
 
 ## Woche 14(11.11-15.11.2019)
 
