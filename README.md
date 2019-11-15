@@ -47,13 +47,15 @@ bauen wollte bot sich dieses Programm auch an.
 Heute habe ich angefangen mich in Html und Css wieder hinein zu finden. Dafür benutze ich Codecademy, das ist eine Website mit der man interaktiv lernen kann un zwar in Form von Kursen. Die Basics habe ich heute schon gelernt mit ein paar Kursen. Mein Ziel für die nächste Stunde ist es mit Codecademy soweit  zu kommen, dass ich das Gerüst meiner eigenen Website bauen kann.
 
 ## Donnerstag, der 22.08.2019
-An diesem Tag habe ich weitere Kurse abgeschlossen. Bin auf Codecademy mit Html fertig geworden und es fehlt nur noch Css. Deswegen werde ich mir bald überlegen müssen was meine Website können soll. Nächste Stunde will ich das Grundgerüst meiner Websit bauen. Habe schon ein design im Kopf mit grün und weiß.
+An diesem Tag habe ich weitere Kurse abgeschlossen. Bin auf Codecademy mit Html fertig geworden und es fehlt nur noch Css. Deswegen werde ich mir bald überlegen müssen was meine Website können soll. Nächste Stunde will ich das Grundgerüst meiner Website bauen. Habe schon ein Design im Kopf mit grün und weiß.
 
 ## Woche 3(26.08-01.09.2019)
 
 ## Dienstag, der 27.08.2019
+Am Dienstag habe ich das Grundgerüst der Website gebaut. Das grün weiße Design habe gu umgesetzt bekommen. Ich habe angefangen über mein Project zu brainstormen, ich habe eine Datenbank im Kopf, wofür weiß ich aber nicht. Ich plane für die nächste Stunde die Css Kurse zu beenden, damit ich meine Website besser gestalten kann.
 
 ## Mittwoch, der 28.08.2019
+Diese Stunde habe ich die Css Kurse beendet in denen es um margin und padding ging. Morgen bringe ich dieses neue Verständnis in meine Website ein indem ich Abstände und Grenzen einfüge in mein neu erstelltes Stylesheet.
 
 ## Donnerstag, der 29.08.2019
 
