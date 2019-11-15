@@ -58,6 +58,8 @@ Am Dienstag habe ich das Grundgerüst der Website gebaut. Das grün weiße Desig
 Diese Stunde habe ich die Css Kurse beendet in denen es um margin und padding ging. Morgen bringe ich dieses neue Verständnis in meine Website ein indem ich Abstände und Grenzen einfüge in mein neu erstelltes Stylesheet.
 
 ## Donnerstag, der 29.08.2019
+Heute hab ich mit shayhowe angefangen weiter zu lernen mit den ersten Kursen zum erstellen von Hyperlinks. Daraufhin habe ich meinen Navigationsbereich mit dem nav Element gebaut und durch die Hyperlinks mit dem link Element miteinander verknüpft. Als nächstes will ich
+ein Grund Html Code für alle Seiten erstellen sowie das main Stylesheet.
 
 ## Woche 4(02.09-08.09.2019)
    Hat kein unterricht stattgefunden
@@ -65,6 +67,7 @@ Diese Stunde habe ich die Css Kurse beendet in denen es um margin und padding gi
 ## Woche 5(09.09-15.09.2019)
 
 ## Mittwoch, der 11.09.2019
+
 
 ## Donnerstag, der 12.09.2019 
 
